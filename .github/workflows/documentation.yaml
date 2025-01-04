@@ -11,6 +11,7 @@ env:
 permissions:
   contents: write
 
+
 jobs:
   build:
     name: Build and publish documentation
